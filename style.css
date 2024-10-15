@@ -1,0 +1,14 @@
+h1 {
+    font-size: 70px;
+    background-color: green;
+    color: antiquewhite;
+}
+
+#header {
+    color: yellow !important;
+}
+
+p {
+    color: blue;
+}
+
