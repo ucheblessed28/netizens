@@ -6,6 +6,9 @@ h1 {
 
 #header {
     color: yellow !important;
+    text-align: center;
+    margin: 0 auto;
+
 }
 
 p {
